@@ -4,7 +4,7 @@
 - 📫 E-mail adresse: jackeline.matos@gmail.com
 - 😄 Pronouns: She/Her
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
 <a href="git@github.com:Jackeline-Matos/Jackeline-Matos.git">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jackeline-Matos&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="Jackeline-Perfil">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackeline-Matos&layout=compact&langs_count=16&theme=nightowl" alt="Jackeline-Perfil">

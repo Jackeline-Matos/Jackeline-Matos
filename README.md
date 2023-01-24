@@ -23,9 +23,15 @@
 </div>
 
 ### Social Media
+
 <div>
 <a href="http://www.linkedin.com/in/jackeline-matos-silva" target="_blank" rel="noopener noreferrer"><img height="30" width= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</div><br>
+  
+  
+### Certifications
+<div> 
+<a href="https://eu.badgr.com/public/assertions/8bPwXh0cT7aVUluAnpTsWg"><img width= "40"src="/img/ui.png"></a>
+<a href="https://eu.badgr.com/public/assertions/lKQ0gVthRw-nfwl4gK1tcw"><img width= "40"src="/img/js.png"></a>
+<a href="https://eu.badgr.com/public/assertions/G-2G_K8IS6WeUFK4iHkTpw"><img width= "40" src="/img/newbie.png"></a>
 </div>
-  
-  
-  

@@ -31,7 +31,7 @@
   
 ### Certifications
 <div style="display: inline_block"> 
-<a href="https://eu.badgr.com/public/assertions/8bPwXh0cT7aVUluAnpTsWg"><img width= "60"src="/img/ui.png"></a>
-<a href="https://eu.badgr.com/public/assertions/lKQ0gVthRw-nfwl4gK1tcw"><img width= "60"src="/img/js.png"></a>
-<a href="https://eu.badgr.com/public/assertions/G-2G_K8IS6WeUFK4iHkTpw"><img width= "60" src="/img/dnewb.png"></a>
+<a href="https://eu.badgr.com/public/assertions/8bPwXh0cT7aVUluAnpTsWg"><img width= "50"src="/img/ui.png"></a>
+<a href="https://eu.badgr.com/public/assertions/lKQ0gVthRw-nfwl4gK1tcw"><img width= "50"src="/img/js.png"></a>
+<a href="https://eu.badgr.com/public/assertions/G-2G_K8IS6WeUFK4iHkTpw"><img width= "50" src="/img/dnewb.png"></a>
 </div>

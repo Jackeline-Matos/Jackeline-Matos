@@ -1,6 +1,8 @@
 ### Hallo! Ich bin Jackeline 👋
 
-- 🌱 Ich bin Web Development. In meinem Lehrplan hatte ich Unterricht in HTML, CSS, Bootstrap, React und im Moment lerne ich NodeJs und MongoDB.
+- 🌱 Ich bin Web Entwicklerin. In meinem Lehrplan hatte ich Unterricht in HTML, CSS, Bootstrap, React, NodeJs und MongoDB.
+- :smiley: Ich bin mit dem Abschluss meines Kurses zufrieden und sehr motiviert, nach einer Möglichkeit zu suchen, alles, was ich gelernt habe, in die Praxis umzusetzen.
+
 - 📫 E-mail adresse: jackeline.matos@gmail.com
 - 😄 Pronouns: She/Her
 

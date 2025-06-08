@@ -37,4 +37,5 @@
 <a href="https://eu.badgr.com/public/assertions/8bPwXh0cT7aVUluAnpTsWg"><img width= "50"src="/img/ui.png"></a>
 <a href="https://eu.badgr.com/public/assertions/lKQ0gVthRw-nfwl4gK1tcw"><img width= "50"src="/img/js.png"></a>
 <a href="https://eu.badgr.com/public/assertions/G-2G_K8IS6WeUFK4iHkTpw"><img width= "50" src="/img/dnewb.png"></a>
+<a href="https://coursera.org/share/1593311ccf6911627e50ca1a5fbedc70"><img width= "50" scr="/img/Google-certificado.png"></a>
 </div>

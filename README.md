@@ -7,10 +7,13 @@
 - 😄 Pronouns: She/Her
 
 
-<div style="display: inline_block">
-<a href="git@github.com:Jackeline-Matos/Jackeline-Matos.git">
-<img height="180em" src= https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jackeline-Matos&show_icons=false&theme=nightowl&include_all_commits=false&count_private=false" alt="Jackeline-Perfil">
-<img height="150em" src= https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jackeline-Matos&layout=compact&langs_count=16&theme=nightowl&include_all_commits=false&count_private=false" alt="Jackeline-Perfil">
+<div align="center">
+<a href="https://github.com/Jackeline-Matos">
+  <img width= "45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Jackeline-Matos&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl" />
+</a>
+<a href="https://github.com/Jackeline-Matos">
+  <img width= "40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackeline-Matos&layout=compact&langs_count=6&theme=nightowl" />
+</a>
 </div><br>
   
 ### Skills
